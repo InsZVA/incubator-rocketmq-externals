@@ -18,8 +18,8 @@ limitations under the License.
 package rocketmq
 
 import (
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/kernel"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/kernel"
 )
 
 //MQClientInstance MQClientInstance
