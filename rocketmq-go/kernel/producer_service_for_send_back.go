@@ -20,11 +20,11 @@ package kernel
 import (
 	"encoding/json"
 	"errors"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/kernel/header"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/constant"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/message"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/remoting"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/kernel/header"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/constant"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/message"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/remoting"
 	"github.com/golang/glog"
 )
 

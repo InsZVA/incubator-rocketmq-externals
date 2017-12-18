@@ -17,7 +17,7 @@ limitations under the License.
 
 package allocate
 
-import "github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
+import "github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
 
 //AllocateMessageQueueStrategy Allocate message queue
 type AllocateMessageQueueStrategy interface {

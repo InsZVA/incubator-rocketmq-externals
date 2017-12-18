@@ -22,7 +22,7 @@ import "github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/message
 // Message rocketmq message
 // topic: the topic of this message
 // tag: the topic of this message, one topic may have no tag or different tag
-// key: key makes this message easy to search by console (https://github.com/apache/incubator-rocketmq-externals/rocketmq-console)
+// key: key makes this message easy to search by console (https://github.com/InsZVA/incubator-rocketmq-externals/rocketmq-console)
 // body: the message's user content
 // see MessageImpl
 type Message interface {

@@ -18,7 +18,7 @@ limitations under the License.
 package header
 
 import (
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/util"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/util"
 	"strconv"
 )
 

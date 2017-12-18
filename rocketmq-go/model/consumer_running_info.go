@@ -19,7 +19,7 @@ package model
 
 import (
 	"encoding/json"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
 )
 
 //ConsumerRunningInfo this client's consumer running info

@@ -18,10 +18,10 @@ limitations under the License.
 package kernel
 
 import (
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
 
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/constant"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/message"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/constant"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/message"
 )
 
 //DefaultMQProducer use DefaultMQProducer send message

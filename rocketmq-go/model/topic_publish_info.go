@@ -18,8 +18,8 @@ limitations under the License.
 package model
 
 import (
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/constant"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/constant"
 	"sync/atomic"
 )
 

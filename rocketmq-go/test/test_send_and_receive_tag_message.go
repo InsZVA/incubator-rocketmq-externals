@@ -19,9 +19,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/util"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/util"
 	"github.com/golang/glog"
 	"time"
 )

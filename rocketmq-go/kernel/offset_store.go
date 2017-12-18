@@ -19,9 +19,9 @@ package kernel
 
 import (
 	"errors"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/kernel/header"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/remoting"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/kernel/header"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/remoting"
 	"github.com/golang/glog"
 	"strconv"
 	"sync"

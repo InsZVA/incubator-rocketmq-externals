@@ -17,7 +17,7 @@ limitations under the License.
 
 package header
 
-import "github.com/apache/incubator-rocketmq-externals/rocketmq-go/util"
+import "github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/util"
 
 //SendMessageResponseHeader of CustomerHeader
 type SendMessageResponseHeader struct {

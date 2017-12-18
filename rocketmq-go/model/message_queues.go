@@ -17,7 +17,7 @@ limitations under the License.
 
 package model
 
-import "github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
+import "github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
 
 //MessageQueues queue array
 type MessageQueues []*rocketmqm.MessageQueue

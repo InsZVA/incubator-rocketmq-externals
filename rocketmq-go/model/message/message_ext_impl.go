@@ -18,8 +18,8 @@ limitations under the License.
 package message
 
 import (
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/constant"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/util"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/constant"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/util"
 	"math"
 )
 

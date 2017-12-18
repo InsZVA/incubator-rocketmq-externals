@@ -18,8 +18,8 @@ limitations under the License.
 package main
 
 import (
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/api/model"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/api/model"
 	"github.com/golang/glog"
 	"time"
 )

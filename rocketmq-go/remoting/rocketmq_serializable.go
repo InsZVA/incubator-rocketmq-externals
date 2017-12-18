@@ -21,7 +21,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/constant"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/constant"
 )
 
 //RocketMqSerializer RocketMqSerializer

@@ -20,7 +20,7 @@ package message
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/util"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/util"
 	"os"
 	"strconv"
 	"strings"

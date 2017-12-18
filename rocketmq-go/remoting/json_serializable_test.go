@@ -18,7 +18,7 @@ limitations under the License.
 package remoting
 
 import (
-	"github.com/apache/incubator-rocketmq-externals/rocketmq-go/remoting"
+	"github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/remoting"
 	"testing"
 )
 
