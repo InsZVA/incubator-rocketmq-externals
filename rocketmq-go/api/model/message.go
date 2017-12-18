@@ -17,7 +17,7 @@ limitations under the License.
 
 package rocketmqm
 
-import "github.com/apache/incubator-rocketmq-externals/rocketmq-go/model/message"
+import "github.com/InsZVA/incubator-rocketmq-externals/rocketmq-go/model/message"
 
 // Message rocketmq message
 // topic: the topic of this message
